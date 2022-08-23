@@ -1,6 +1,5 @@
 Welcome to our 4-in-1 video game, made by Timothé W. and Jason F.
-
-The four games are :
+-----------------------------------------------------------------
 
 # Brick Breaker
 You control the paddle with the left and right arrow keys of the keyboard.<br />
