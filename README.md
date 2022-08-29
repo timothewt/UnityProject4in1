@@ -1,6 +1,7 @@
 Welcome to our 4-in-1 video game, made by Timothé W. and Jason F.
 -----------------------------------------------------------------
 <img src="https://i.ibb.co/0n22nzw/menu.png" width="480" height="270" alt="Main Menu"><br />
+This project which consists of four different games in one was the end of our Unity class and recaps everything we learned.
 
 # Brick Breaker
 <img src="https://i.ibb.co/mHVy9Gz/bb.png" width="480" height="270" alt="Game of Brick Breaker"><br />
