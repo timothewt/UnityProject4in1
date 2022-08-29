@@ -27,5 +27,8 @@ If you score one of your balls without a fault, you play again.<br />
 There is a fault when the first ball hit is not your own color. If you touch the black ball first and you still have other balls to score, it's also a fault. 
 If you score the 8-ball while you still have other balls to score, you lost the game.
 <br />
+----
+## How to play ?
+You can play our game by downloading the executable file <a href="https://github.com/timothewt/UnityProject4in1/blob/main/Build/UnityProject4in1.exe">UnityProject4in1.exe</a>.
 
 In each game you can press [P] to pause, [Esc] to go back to the main menu, and the space bar when the game is over to restart the same game.
