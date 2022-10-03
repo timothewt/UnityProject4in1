@@ -4,7 +4,7 @@ Welcome to our 4-in-1 video game, made by Timothé W. and Jason F.
 This project which consists of four different games in one was the end of our Unity class and recaps everything we learned.
 
 ## Brick Breaker
-<img src="https://i.ibb.co/mHVy9Gz/bb.png" width="480" height="270" alt="Game of Brick Breaker"><br />
+<img src="https://i.ibb.co/mHVy9Gz/bb.jpeg" width="480" height="270" alt="Game of Brick Breaker"><br />
 You control the paddle with the left and right arrow keys of the keyboard.<br />
 Every brick has three wear states, by hitting the brick you reduce it by one. They are indicated by the appearance of the brick (gold->stone->cracked stone). The goal is to destroy all the bricks with the ball. There is a little easter egg when you go to the next level.
 
